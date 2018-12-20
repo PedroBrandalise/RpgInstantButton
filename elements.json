@@ -1,0 +1,23 @@
+{
+	"elements":[
+		{"file": "tavern", "name": "Tavern"},
+		{"file": "forest", "name": "Forest"},
+		{"file": "cave", "name": "Cave"},
+		
+		{"file": "village", "name": "Village"},
+		{"file": "river", "name": "River"},
+		{"file": "burning", "name": "Burning Building"},
+		
+		{"file": "bonfire", "name": "Bonfire"},
+		{"file": "rain", "name": "Rain"},
+		{"file": "battle", "name": "Battle"},
+		
+		{"file": "monastery", "name": "Monastery"},
+		{"file": "action_song", "name": "Action music"},
+		{"file": "medieval_song", "name": "Medieval music"}
+
+	]
+
+
+
+}
